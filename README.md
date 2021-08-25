@@ -41,20 +41,20 @@
 
 ## Socials
 <p align="left">
-  <a href="https://www.instagram.com/mialfemo/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=702963&link=https://www.instagram.com/mialfemo/"/>
+  <a href="https://www.instagram.com/mialfemo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=702963&link=https://www.instagram.com/mialfemo/" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/miguel.alvesfernandes/" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-1C1C1C?style=for-the-badge&logo=Facebook&logoColor=702963&link=https://www.facebook.com/miguel.alvesfernandes/"/>
+  <a href="https://www.facebook.com/miguel.alvesfernandes/" target="_blank"  >
+    <img src="https://img.shields.io/badge/-Facebook-1C1C1C?style=for-the-badge&logo=Facebook&logoColor=702963&link=https://www.facebook.com/miguel.alvesfernandes/" alt="Facebook"/>
   </a>
-  <a href="mailto:miguelfernandesalves09@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=702963"/>
+  <a href="mailto:miguelfernandesalves09@gmail.com" target="_blank" >
+    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=702963" alt="Gmail"/>
   </a>
-  <a href="https://gitlab.com/wt2k" alt="Gitlab">
-    <img src="https://img.shields.io/badge/-Gitlab-1C1C1C?style=for-the-badge&logo=Gitlab&logoColor=702963"/>
+  <a href="https://gitlab.com/wt2k" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gitlab-1C1C1C?style=for-the-badge&logo=Gitlab&logoColor=702963"alt="Gitlab"/>
   </a>
-  <a href="steamcommunity.com/id/cobrafazmiau/" alt="Steam">
-    <img src="https://img.shields.io/badge/-Steam-1C1C1C?style=for-the-badge&logo=Steam&logoColor=702963&link=https://steamcommunity.com/id/cobrafazmiau/"/>
+  <a href="https://steamcommunity.com/id/cobrafazmiau/" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Steam-1C1C1C?style=for-the-badge&logo=Steam&logoColor=702963&link=https://steamcommunity.com/id/cobrafazmiau/" alt="Steam"/>
   </a>
 </p>
 
