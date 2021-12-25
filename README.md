@@ -5,7 +5,6 @@
 
 ### About me
 
-- 🏢 Currently working on **[@avantesolucoesdigitais](https://avanteempresas.com.br/)** mostly as backend engineer
 - 🌱 I’m currently learning Flutter
 - 🎓 IFMG Campus Formiga (Computer Science)
 - 📚 UFLA (Computer Science)
