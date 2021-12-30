@@ -1,5 +1,5 @@
 # Miguel Alves
-## Full snack dev
+## Full stack web dev
 
 <p>Mainly backend developer, but i code some apps and websites too</p>
 
