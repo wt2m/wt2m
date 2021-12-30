@@ -55,6 +55,9 @@
   <a href="https://steamcommunity.com/id/cobrafazmiau/" alt="Gmail">
     <img src="https://img.shields.io/badge/-Steam-1C1C1C?style=for-the-badge&logo=Steam&logoColor=702963&link=https://steamcommunity.com/id/cobrafazmiau/" alt="Steam"/>
   </a>
+   <a href="https://steamcommunity.com/id/cobrafazmiau/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=702963&link=https://www.linkedin.com/in/miguel-alves-wt2m/" alt="Linkedin"/>
+  </a>
 </p>
 
 ## Github stats
