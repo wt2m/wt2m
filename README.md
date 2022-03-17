@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Flutter
 - 🎓 IFMG Campus Formiga (Computer Science)
-- 📚 UFLA (Computer Science)
+- 📚 PUCMG (Software Engineering)
 - 📚 Senac (Financial Management)
 
 ### Languages
