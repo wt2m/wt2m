@@ -5,7 +5,7 @@
 
 ### About me
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Laravel
 - 🎓 IFMG Campus Formiga (Computer Science)
 - 📚 PUCMG (Software Engineering)
 - 📚 Senac (Financial Management)
